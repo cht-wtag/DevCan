@@ -22,7 +22,7 @@
 - Clone the repository
 
   ```bash
-    https://github.com/cht-wtag/UMS.git
+    https://github.com/cht-wtag/DevCan.git
   ```
 
 - Run command
